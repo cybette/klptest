@@ -6,7 +6,7 @@ layout: default
 
 Koku is an open source solution for cost management of clouds, containers, and hybrid cloud environments. It is designed to identify and report cost data associated with various sources, which allows your enterprise to make decisions on visibility, analysis, and optimization.
 
-| ![](klptest/assets/img/cost-transparency-icon.png) | ![](klptest/assets/img/cost-optimization-icon.png) | ![](klptest/assets/img/cost-communication-icon.png)|
+| ![](/assets/img/cost-transparency-icon.png) | ![](/assets/img/cost-optimization-icon.png) | ![](/assets/img/cost-communication-icon.png)|
 |:------:|:------:|:------:|
 | <strong>Cost transparency:</strong> manage cost across clouds and provide visibility where costs are occurring | <strong>Cost optimization and analytics:</strong> forecast and optimize cost while identifying unnecessary spend | <strong>Communicate cost effectively:</strong> improve consumption behaviour and line of business to IT communication |
 
@@ -37,7 +37,7 @@ Learn about Koku with the detailed guides on:
 
 ## Architecture
 
-![](klptest/assets/img/koku-architecture.png)
+![](/assets/img/koku-architecture.png)
 
 # Get Involved with the Community
 
@@ -51,6 +51,6 @@ Koku is open souce and open for contributions. Everyone is invited to connect, a
 
 Koku, in Japanese, is a unit of measure for the amount of rice sufficient for one person for one year. Masu is a square wooden box for measuring rice, and more recently for drinking sake. Along the themes of measurement and management of resources, we present you the Koku logo of a Masu box measuring the rice cloud.
 
-![](klptest/assets/img/koku-logo-horizontal.png)
+![](/assets/img/koku-logo-horizontal.png)
 
 The logo is designed by [tigert](https://github.com/tigert)

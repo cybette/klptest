@@ -12,7 +12,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Project Koku
-logo: /assets/img/koku-logo.png
+logo: klptest/assets/img/koku-logo.png
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Open Source project for a cost management API service
