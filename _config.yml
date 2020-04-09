@@ -18,11 +18,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Open Source project for a cost management API service
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: project-koku
+twitter_username: ProjectKoku
 github_username:  project-koku
 docs_url: https://koku.readthedocs.io/
 source_url: https://github.com/project-koku
-twitter_url: https://twitter.com/project-koku
+twitter_url: https://twitter.com/ProjectKoku
 redhatopen_url: https://www.redhat.com/en/about/our-community-contributions
 
 # Build settings
