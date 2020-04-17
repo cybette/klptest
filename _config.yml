@@ -23,6 +23,7 @@ github_username:  project-koku
 docs_url: https://koku.readthedocs.io/
 source_url: https://github.com/project-koku
 twitter_url: https://twitter.com/ProjectKoku
+gitter_url: https://gitter.im/Project-Koku/community
 redhatopen_url: https://www.redhat.com/en/about/our-community-contributions
 
 # Build settings

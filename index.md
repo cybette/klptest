@@ -14,8 +14,6 @@ Koku is an open source solution for cost management of clouds, containers, and h
 
 With Koku, you can:
 * Visualize, understand and analyze the use of resources and costs
-* Forecast your future consumption and compare them with budgets
-* Optimize resources and consumption
 * Identify patterns of usage that should be investigated
 * Integrate with third party tools that can benefit from cost and resourcing data
 
@@ -45,7 +43,7 @@ Koku is open souce and open for contributions. Everyone is invited to connect, a
 
 * [Twitter]({{ site.twitter_url }}): connect with us to be informed about announcements and happenings
 * [GitHub]({{ site.source_url }}): check out the source code in the repositories for the different components illustrated in the architecture diagram
-* [Gitter](): join the chat with your questions and discussions (you can sign in with your GitHub account)
+* [Gitter]({{ site.gitter_url }}): join the chat with your questions and discussions (you can sign in with your GitHub account)
 
 # Logo
 
