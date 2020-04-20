@@ -31,7 +31,7 @@ Learn about Koku with the detailed guides on:
 - [Development Information]({{ site.docs_url }}en/latest/development.html)
   - Find out how to start developing for and contributing to Koku
 - [Installation]({{ site.docs_url }}en/latest/install.html)
-  - This section details the various components that needs to be deployed to run Koku
+  - This section details the various components that need to be deployed to run Koku
 
 ## Architecture
 
@@ -39,7 +39,7 @@ Learn about Koku with the detailed guides on:
 
 # Get Involved with the Community
 
-Koku is open souce and open for contributions. Everyone is invited to connect, ask questions, give feedback, and collaborate in the Koku Community!
+Koku is open source and open for contributions. Everyone is invited to connect, ask questions, give feedback, and collaborate in the Koku Community!
 
 * [Twitter]({{ site.twitter_url }}): connect with us to be informed about announcements and happenings
 * [GitHub]({{ site.source_url }}): check out the source code in the repositories for the different components illustrated in the architecture diagram
